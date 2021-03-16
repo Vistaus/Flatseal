@@ -1,0 +1,24 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      xmlns:its="http://www.w3.org/2005/11/its"
+      type="guide" id="index">
+
+  <info>
+    <title type="link">Flatseal</title>
+    <title type="text">Flatseal</title>
+
+    <credit type="author">
+      <name>Martín Abente Lahaye</name>
+      <email its:translate="no">martin.abente.lahaye@gmail.com</email>
+      <years>2021</years>
+    </credit>
+  </info>
+
+  <title>
+    Flatseal
+  </title>
+
+  <p>Manage Flatpak permissions</p>
+
+  <p>Flatseal is a graphical utility to review and modify permissions from your Flatpak applications.</p>
+
+</page>
